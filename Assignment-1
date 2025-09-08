@@ -1,0 +1,113 @@
+Assignment - 1
+
+1.What is Python and why is it called an interpreted language?
+
+*Python is a high-level programming language
+
+*Simple and easy-to-learn syntax
+
+*open source
+
+*Execute faster compared to some other programs
+
+*Need only less memory
+
+*Large standard library
+
+*Python is an interpreted language.
+
+Python is called an interpreted language because its code is executed line-by-line at runtime by an interpreter.
+
+2.What are the key features of Python that make it popular for beginners and professionals?
+
+1)Simple and Easy-to-Learn Syntax:Python’s syntax is clear, readable, and similar to English, making it beginner-friendly.
+
+2)Interpreted Language:Python code is executed line-by-line, allowing quick testing and debugging.
+
+3)platform-independent:Python is platform-independent, meaning the same code can run on Windows, macOS, Linux, etc., without modification.
+
+4)Open-Source and Free:Python is free to use, distribute, and modify
+
+5)Large Standard Library:Comes with a built-in standard library for tasks like file handling, web development, database management, and more.Reduces the need to write extra code from scratch.
+
+6)Object-Oriented Programming:Object-Oriented Programming (OOP) for creating reusable and structured code.
+
+3.What is the difference between Python 2 and Python 3?
+
+*In Python 2, you write print without brackets.
+
+*in Python 3, you must use brackets like print("Hello").
+
+*In Python 2, dividing two numbers will only give you answer as intergers.
+
+*while in Python 3 it gives decimal values also.
+
+*Python 2 is an older version that is no longer supported.
+
+*Python 3 is the current and actively developed version.
+
+4.What are Python’s applications in real-world projects?
+
+1)Web Development
+
+2)Data Science and Data Analysis
+
+3)Artificial Intelligence and Machine Learning
+
+4)Game Development
+
+5)Cybersecurity and Ethical Hacking
+
+6)Desktop Application Development
+
+7)Internet of Things (IoT)
+
+8)Automation
+
+5.What is PEP 8 and why is it important in Python programming?
+
+PEP 8 is Python Enhancement Proposal 8, which is the style guide for writing Python code.PEP 8 makes Python code look clean, readable, and consistent, which is why it is widely used in the Python community.
+
+-Readability :Code that follows PEP 8 is easier for others (and your future self) to read.
+
+-Consistency :If everyone follows the same style, projects look uniform.
+
+-Collaboration :In team projects, PEP 8 ensures all developers write code in the same way.
+
+-Professionalism :Following PEP 8 is a mark of clean, high-quality Python code.
+
+-Fewer errors :Consistent formatting reduces mistakes and confusion.
+
+6.Who developed Python and in which year was it released?
+
+-Developer: Guido van Rossum (a Dutch programmer).
+
+-Year of release: 1991.
+
+7.What do you mean by “dynamically typed” in Python?
+
+Dynamically typed in Python means:
+
+-You don’t have to say the type of a variable (like int, string, etc.) when creating it.
+
+Python will decide the type automatically when the program runs.
+
+8.What is the difference between a compiler and an interpreter, and which does Python use?
+
+Compiler
+
+-Translates the whole program into machine code at once.
+
+-Runs faster after compilation.
+
+-Example: C, C++ use compilers.
+
+Interpreter
+
+-Translates and runs the program line by line.
+
+-Easier to debug, but slower.
+
+-Example: Python, JavaScript use interpreters.
+
+*Python is an interpreted language :it runs code line by line using the Python interpreter.
