@@ -1,9 +1,0 @@
-Date : 04-09-2025
-
-writea program to read employee id,employee name,employee phone number
-
-emp_id=input()
-
-emp_name=input()
-
-emp_phn_no=input()
